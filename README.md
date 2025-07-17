@@ -20,8 +20,7 @@ Welcome to my captivating 3D portfolio website project! Harnessing the power of 
 - **Optimized Performance**: Employ Suspense and Preload techniques to deliver a blazing-fast user experience.
 
 ## 🌐 Live Demo
-Experience it in action! Check out the <a https://zodrick-portfolio.onrender.com/" target="_blank">Live Demo</a>.
-
+Experience it in action! [Live Demo 🚀](https://zodrick-portfolio.onrender.com/)
 
 ## 🛠️ Usage
 You can easily create your own 3-D portfolio website using this project as a template. Just follow these steps:
